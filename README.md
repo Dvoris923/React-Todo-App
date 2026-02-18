@@ -55,8 +55,6 @@ This project uses the following:
 - **TypeScript** – typed superset of JavaScript for safer code
 - **HTML & CSS** – structure and styling of the app
 
-> React is used to build component-based, interactive user interfaces. :contentReference[oaicite:2]{index=2}
-
 ---
 
 ## 🎮 How to Use
